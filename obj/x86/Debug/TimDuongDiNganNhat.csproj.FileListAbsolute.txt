@@ -1,0 +1,19 @@
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\obj\x86\Debug\TimDuongDiNganNhat.Form1.resources
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\obj\x86\Debug\TimDuongDiNganNhat.Properties.Resources.resources
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\obj\x86\Debug\TimDuongDiNganNhat.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\bin\Debug\TimDuongDiNganNhat.exe
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\bin\Debug\TimDuongDiNganNhat.pdb
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\obj\x86\Debug\TimDuongDiNganNhat.exe
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\obj\x86\Debug\TimDuongDiNganNhat.pdb
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\obj\x86\Debug\TimDuongDiNganNhat.csprojResolveAssemblyReference.cache
+E:\hoctap\hk2_nam2\TriTueNhanTao\TimDuongDiNganNhat\bin\Debug\TimDuongDiNganNhat.exe.config
+E:\hoctap\hk2_nam2\TriTueNhanTao\TimDuongDiNganNhat\bin\Debug\TimDuongDiNganNhat.exe
+E:\hoctap\hk2_nam2\TriTueNhanTao\TimDuongDiNganNhat\bin\Debug\TimDuongDiNganNhat.pdb
+E:\hoctap\hk2_nam2\TriTueNhanTao\TimDuongDiNganNhat\obj\x86\Debug\TimDuongDiNganNhat.csprojAssemblyReference.cache
+E:\hoctap\hk2_nam2\TriTueNhanTao\TimDuongDiNganNhat\obj\x86\Debug\TimDuongDiNganNhat.Form1.resources
+E:\hoctap\hk2_nam2\TriTueNhanTao\TimDuongDiNganNhat\obj\x86\Debug\TimDuongDiNganNhat.Form2.resources
+E:\hoctap\hk2_nam2\TriTueNhanTao\TimDuongDiNganNhat\obj\x86\Debug\TimDuongDiNganNhat.Properties.Resources.resources
+E:\hoctap\hk2_nam2\TriTueNhanTao\TimDuongDiNganNhat\obj\x86\Debug\TimDuongDiNganNhat.csproj.GenerateResource.cache
+E:\hoctap\hk2_nam2\TriTueNhanTao\TimDuongDiNganNhat\obj\x86\Debug\TimDuongDiNganNhat.csproj.CoreCompileInputs.cache
+E:\hoctap\hk2_nam2\TriTueNhanTao\TimDuongDiNganNhat\obj\x86\Debug\TimDuongDiNganNhat.exe
+E:\hoctap\hk2_nam2\TriTueNhanTao\TimDuongDiNganNhat\obj\x86\Debug\TimDuongDiNganNhat.pdb

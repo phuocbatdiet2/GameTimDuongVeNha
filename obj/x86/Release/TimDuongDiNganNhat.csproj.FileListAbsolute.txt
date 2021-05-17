@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\bin\Release\TimDuongDiNganNhat.exe
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\bin\Release\TimDuongDiNganNhat.pdb
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\obj\x86\Release\TimDuongDiNganNhat.Form1.resources
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\obj\x86\Release\TimDuongDiNganNhat.Properties.Resources.resources
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\obj\x86\Release\TimDuongDiNganNhat.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\obj\x86\Release\TimDuongDiNganNhat.exe
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\obj\x86\Release\TimDuongDiNganNhat.pdb
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\obj\x86\Release\TimDuongDiNganNhat.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\bin\Release\TimDuongDiNganNhat.exe.config
+C:\Users\Admin\Desktop\Solution File\TimDuongDiNganNhat\TimDuongDiNganNhat\obj\x86\Release\TimDuongDiNganNhat.Form2.resources
